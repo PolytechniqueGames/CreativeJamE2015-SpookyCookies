@@ -1,0 +1,12 @@
+Dans ce jeu, vous incarnez une petite fille qui à la suite d'une soirée pyjama doit aller cherchez des biscuits pour ses amies.
+
+Déplacements : WASD
+Caméra : Souris
+Courir : Shift
+Interagir: E
+Puissance maximale de lampe torche: Clic droit
+
+Regarder un monstre vous fait peur! Vous ne pouvez pas le regarder longtemps sans perdre connaissance.
+Votre lampe-torche a une quantité maximale de décharges, l'énergie se recharge longtemps.
+
+Trouvez les biscuits et retournez à votre chambre!
